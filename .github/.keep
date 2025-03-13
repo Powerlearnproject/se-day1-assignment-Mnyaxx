@@ -1,0 +1,96 @@
+ 1. What is Software Engineering and Why is it Important in the technology industry?
+Software engineering is the process of designing, developing, testing, and maintaining software in a structured way. As for its importance it provides: 
+Making software high-quality and easy to maintain.
+
+Reducing time and cost in development.
+
+Ensuring security and reliability.
+
+Allowing teams to work together effectively.
+
+2. Key Events in the History of Software Engineering
+Development of Programming Languages (1950s-1960s) – Early languages like FORTRAN and COBOL made programming easier and more structured.
+
+Introduction of Software Development Models (1970s-1980s) – The Waterfall model and structured programming helped improve the development process.
+
+The Shift to Agile and DevOps (2000s-Present) – Agile and DevOps improved teamwork, flexibility, and efficiency in software development.
+
+3. Stages of the Software Development Life Cycle (SDLC)
+
+Requirement Analysis – Understanding what the software needs to do.
+
+Planning – Defining goals, budget, and schedule.
+
+Design – Creating plans and structures for the software.
+
+Implementation (Coding) – Writing the actual code.
+
+Testing – Checking for errors and making sure everything works.
+
+Deployment – Releasing the software to users.
+
+Maintenance – Fixing bugs and making updates.
+
+4. Comparing Waterfall and Agile Approaches
+Waterfalls process is step-by-step while Agile repeats in cycles.
+Waterfall is more structured while Agile is more flexible.
+Waterfall is more predictable while Agile is more adaptable.
+Waterfall customer involvement takes place at the beginning and end only while Agile is continuous feedback.
+Waterfall is best used in large and stable projects with clear and fixed requirements like banking software while Agile is used for fast-changing projects such as mobile apps.
+
+5. Team Roles in Software Development
+
+Software Developer – Writes and tests code.
+
+Quality Assurance (QA) Engineer – Finds and fixes software problems.
+
+Project Manager – Organizes tasks, timelines, and communication.
+
+6. Why IDEs and Version Control Systems Matter
+
+Integrated Development Environments (IDEs): Tools that help developers write and test code (e.g., Visual Studio Code, IntelliJ IDEA).
+
+Version Control Systems (VCS): Track changes and allow multiple people to work on the same project (e.g., Git, GitHub).
+
+7. Common Problems Software Engineers Face and Solutions
+
+Fixing Bugs → Use debugging tools and logs.
+
+Meeting Deadlines → Use project planning tools and work in small steps.
+
+Security Risks → Follow safe coding practices and test for vulnerabilities.
+
+8. Types of Software Testing
+
+Unit Testing – Checks small parts of the code.
+
+Integration Testing – Ensures different sections work together.
+
+System Testing – Tests the whole software.
+
+Acceptance Testing – Confirms the software meets user needs.
+
+Part 2: Introduction to AI and Prompt Engineering
+1. What is Prompt Engineering and Why is it Important?
+
+Prompt engineering is the process of creating clear and detailed instructions for AI models. It helps:
+
+Get better and more relevant responses.
+
+Reduce incorrect or biased outputs.
+
+Improve how AI assists in problem-solving.
+
+2. Example of a Vague vs. Improved Prompt
+
+Vague Prompt: "Tell me about history."
+
+Improved Prompt: "Summarize key historical events from the 20th century, focusing on wars and technology."
+
+Why the Improved Prompt is Better:
+
+It specifies the timeframe (20th century).
+
+It narrows the focus (wars and technology).
+
+It ensures clarity and relevance.
